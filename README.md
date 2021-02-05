@@ -1,4 +1,4 @@
-# desafio-arquiteto-frontend
+# Desafio Arquiteto Frontend
 
 Atuar como arquiteto de frontend exige também habilidades técnicas para que novas soluções possam ser validadas, antes de seguirem para produção.
 Esse desafio busca trazer uma necessidade técnica que precisa ser solucionada, e precisamos validar uma ideia antes de implementá-la no sistema.
